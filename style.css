@@ -34,6 +34,8 @@ padding: 0%;
 }
 nav a:hover{
     color: blueviolet ;
+    text-decoration: underline;
+    
 }
 
 h1 {
